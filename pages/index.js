@@ -15,7 +15,7 @@ export default function Home() {
         
         <h3 className='h3'>bcPro Tokenomics</h3>
 
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="580" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       
       </main>
 
