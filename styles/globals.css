@@ -18,6 +18,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 code {
@@ -33,4 +34,5 @@ code {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
