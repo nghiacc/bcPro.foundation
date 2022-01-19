@@ -27,6 +27,10 @@ export default function Home() {
             </td>
           </tr>
         </table>
+        <p className='description'>
+          Weekly Dividend and Interest for #Hold2Earn and #Saving4Lotus programs.
+          Please check out <a href='https://t.me/bcprotx'>bcPro Telegram channel</a>
+        </p>
       </main>
 
       <Footer />
