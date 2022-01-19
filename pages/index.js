@@ -33,10 +33,10 @@ export default function Home() {
           </tr>
           <tr>
             <td align='center'>
-                #Hold2Earn
+                bcPro Hold2Earn
             </td>
             <td align='center'>
-                #Saving4Lotus
+                EAT Saving4Lotus
             </td>
           </tr>
         </table>
