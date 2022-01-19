@@ -17,9 +17,9 @@ export default function Home() {
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       
         
-        <table width={200}>
+        <table width={300}>
           <tr>
-            <td colSpan={2}>
+            <td colSpan={2} align='center'>
               <h3 className='description'>Token Information</h3>
             </td>
           </tr>
