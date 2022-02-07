@@ -43,6 +43,29 @@ export default function Home() {
         <p className='description'>
           Weekly Dividend and Interest for #Hold2Earn and #Saving4Lotus programs.
         </p>
+        <table width={300}>
+          <tr>
+            <td colSpan={2} align='center'>
+              <h3 className='description'>bcPro Assets</h3>
+            </td>
+          </tr>
+          <tr>
+            <td align='center'>
+              <a target="_blank" title="eCash (XEC)" rel="noopener noreferrer"  href="https://explorer.be.cash/address/ecash:pz8yp6cjgp7wm2dpfzl6d2xaux0nlps4auzamkqtr4"><img src="/ecash.png" width={64} height={64}></img></a>
+            </td>
+            <td align='center'>
+              <a target="_blank" title="Lotus (XPI)" rel="noopener noreferrer"  href="https://explorer.givelotus.org/address/lotus_1PrRica6SAT3VmGK31qHMcfso2a12v5PB31iiT"><img src="/lotus_96x96.png" width={64} height={64}></img></a>
+            </td>
+          </tr>
+          <tr>
+            <td align='center'>
+                eCash (XEC)
+            </td>
+            <td align='center'>
+                Lotus (XPI)
+            </td>
+          </tr>
+        </table>
         <p>
           More info: Check out <a target="_blank" title="bcPro Token" rel="noopener noreferrer" href='https://t.me/bcprotx'>bcPro Telegram channel</a>
         </p>
