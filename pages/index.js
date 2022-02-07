@@ -35,6 +35,13 @@ export default function Home() {
             <td align='center'>
                 EAT Token
             </td>
+            <tr>
+            <td align='center'>
+                Backed by crypto assets
+            </td>
+            <td align='center'>
+                1 EAT = 1 USDT
+            </td>
           </tr>
           <tr>
             <td align='center'>
