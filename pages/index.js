@@ -22,7 +22,7 @@ export default function Home() {
           </tr>
           <tr>
             <td align='center'>
-              <a target="_blank" title="bcPro Token" rel="noopener noreferrer"  href="https://explorer.be.cash/tx/5a68fe2909240832f5e3de0d57cb8d622934f47ee7ab7b2ba49d5295a581ca13"><img src="/bcpro-icon.png" width={64} height={64}></img></a>
+              <a target="_blank" title="bcPro Token" rel="noopener noreferrer"  href="https://explorer.be.cash/tx/5a68fe2909240832f5e3de0d57cb8d622934f47ee7ab7b2ba49d5295a581ca13"><img src="/bcpro-logo.png" width={64} height={64}></img></a>
             </td>
             <td align='center'>
               <a target="_blank" title="EAT Token" rel="noopener noreferrer"  href="https://explorer.be.cash/tx/0c8d48bb808cf84705cd4c7cf27807d439a5dd032f662116966263226424805a"><img src="/eat-icon.png" width={64} height={64}></img></a>
