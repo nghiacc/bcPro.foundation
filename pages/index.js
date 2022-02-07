@@ -14,7 +14,7 @@ export default function Home() {
         <img src="/bcPro-Logo.png" height={256} width={256}></img>
         <Header title="bcPro Tokenomics" />
 
-        <table width={400}>
+        <table width={350}>
           <tr>
             <td colSpan={2} align='center'>
               <h3 className='description'>Token Information</h3>
@@ -53,7 +53,7 @@ export default function Home() {
             </td>
           </tr>
         </table>
-        <table width={400}>
+        <table width={350}>
           <tr>
             <td colSpan={2} align='center'>
               <h3 className='description'>bcPro Assets</h3>
