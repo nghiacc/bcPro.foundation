@@ -13,10 +13,7 @@ export default function Home() {
       <main>
         <img src="/bcPro-Logo.png" height={256} width={256}></img>
         <Header title="bcPro Tokenomics" />
-        
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-      
-        
+
         <table width={300}>
           <tr>
             <td colSpan={2} align='center'>
@@ -33,16 +30,21 @@ export default function Home() {
           </tr>
           <tr>
             <td align='center'>
-                bcPro Hold2Earn
+                bcPro Token
             </td>
             <td align='center'>
-                EAT Saving4Lotus
+                EAT Token
+            </td>
+          </tr>
+          <tr>
+            <td align='center'>
+                Weekly dividend payout on Saturdays.
+            </td>
+            <td align='center'>
+                Weekly interest payout on Saturdays.
             </td>
           </tr>
         </table>
-        <p className='description'>
-          Weekly Dividend and Interest for #Hold2Earn and #Saving4Lotus programs.
-        </p>
         <table width={300}>
           <tr>
             <td colSpan={2} align='center'>
@@ -66,6 +68,10 @@ export default function Home() {
             </td>
           </tr>
         </table>
+
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      
+        
         <p>
           More info: Check out <a target="_blank" title="bcPro Token" rel="noopener noreferrer" href='https://t.me/bcprotx'>bcPro Telegram channel</a>
         </p>
