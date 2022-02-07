@@ -38,10 +38,10 @@ export default function Home() {
           </tr>
           <tr>
             <td align='center'>
-                Weekly dividend payout on Saturdays.
+                Weekly Lotus dividend payout on Saturdays.
             </td>
             <td align='center'>
-                Weekly interest payout on Saturdays.
+                Weekly Lotus interest payout on Saturdays.
             </td>
           </tr>
         </table>
@@ -68,10 +68,9 @@ export default function Home() {
             </td>
           </tr>
         </table>
-
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-      
-        
+        <p>
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        </p>
         <p>
           More info: Check out <a target="_blank" title="bcPro Token" rel="noopener noreferrer" href='https://t.me/bcprotx'>bcPro Telegram channel</a>
         </p>
