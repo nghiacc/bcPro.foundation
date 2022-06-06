@@ -46,10 +46,10 @@ export default function Home() {
           </tr>
           <tr>
             <td align='center'>
-                Weekly Lotus dividend payout on Saturdays.
+                Weekly dividends.
             </td>
             <td align='center'>
-                Weekly Lotus interest payout on Saturdays.
+                Weekly interests.
             </td>
           </tr>
         </table>
