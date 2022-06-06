@@ -81,7 +81,7 @@ export default function Home() {
         
         
         <p>
-          More info: Check out <a target="_blank" title="bcPro Token" rel="noopener noreferrer" href='https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp'>bcPro Tokenomics</a>
+          More info: Check out <a target="_blank" title="bcPro Token" rel="noopener noreferrer" href='https://docs.google.com/presentation/d/e/2PACX-1vSTCLb9cjqnl_V0u71h2XFWDSG75aQ9sWg_QXhhp0BZDi3AhTK12wF2lX10BITGFfzxqQyRFgvLdeXp/pub?start=false&loop=false&delayms=3000'>bcPro Tokenomics</a>
         </p>
       </main>
 
